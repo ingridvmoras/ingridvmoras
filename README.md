@@ -38,8 +38,8 @@
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Hooby #1
-- Hooby #2
+- Photography
+- I made playlist [here](https://open.spotify.com/user/innombrable45) 
 
 
 ## Contact

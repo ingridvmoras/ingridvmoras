@@ -1,4 +1,4 @@
-# Hi, I'm Ingrid Mora 
+# Hi, I'm Mora 
 
 <!-- A short sentence that can  describe who you are -->
 
@@ -6,7 +6,8 @@
 ## Education
 
 - Bachelor: Biology student at [Universidad de los Andes](https://uniandes.edu.co/)
-Minor in Computer Science 
+- Minor: Computer Science student at [Universidad de los Andes](https://uniandes.edu.co/)
+ 
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations

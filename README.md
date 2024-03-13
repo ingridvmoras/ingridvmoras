@@ -39,10 +39,10 @@
 ## Hobbies
 
 - Photography
-- I made playlist [here](https://open.spotify.com/user/innombrable45) 
+- I made playlists [here](https://open.spotify.com/user/innombrable45) 
 
 
 ## Contact
 
-You can reach me at <i.moras@uniandes.edu.co>
+You can reach me at <i.moras@uniandes.edu.co> 
 

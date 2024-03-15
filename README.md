@@ -6,7 +6,8 @@
 ## Education
 
 - Bachelor: Biology student at [Universidad de los Andes](https://uniandes.edu.co/)
-- Minor: Computer Science student at [Universidad de los Andes](https://uniandes.edu.co/)
+- Minor: Computational Mathematics student at [Universidad de los Andes](https://uniandes.edu.co/)
+- Minor: Bioinformatics student at [Universidad de los Andes](https://uniandes.edu.co/)
  
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
@@ -25,14 +26,14 @@
 
 ### Current:
 
-- Current research topic #1
-- Current research topic #2
+- Malaria vector/parasite dynamics
+- Mathematical and computational modeling of malaria
 
 <!-- Topics that you haven't research yet but are intriguing to you -->
 ### Future interests:
 
-- Future interests research topic #1
-- Future interests research topic #2
+- Genomic epidemiology of infectious diseases
+- Immune response 
 
 
 <!-- Because we are humans before researchers -->

@@ -40,7 +40,7 @@
 ## Hobbies
 
 - Photography
-- I made playlists [here](https://open.spotify.com/user/innombrable45) 
+- I make playlists [here](https://open.spotify.com/user/innombrable45) 
 
 
 ## Contact

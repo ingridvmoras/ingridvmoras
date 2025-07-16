@@ -7,7 +7,7 @@
 
 - Bachelor: Biology student at [Universidad de los Andes](https://uniandes.edu.co/)
 - Minor: Computational Mathematics student at [Universidad de los Andes](https://uniandes.edu.co/)
-- Minor: Bioinformatics student at [Universidad de los Andes](https://uniandes.edu.co/)
+
  
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
